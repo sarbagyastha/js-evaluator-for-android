@@ -1,6 +1,6 @@
 # JsEvaluator library for running JavaScript in Android apps
 
-[![JitPack](https://img.shields.io/github/tag/evgenyneu/js-evaluator-for-android.svg?label=JitPack)](https://jitpack.io/#evgenyneu/js-evaluator-for-android)
+[![JitPack](https://img.shields.io/github/tag/sarbagyastha/js-evaluator-for-android.svg?label=JitPack)](https://jitpack.io/#sarbagyastha/js-evaluator-for-android)
 
 JsEvaluator may help you run JavaScript in an Android app and get the results. This is an alternative to `evaluateJavascript` method of the WebView. Supports Android version 4.0 (Ice Cream Sandwich) and newer.
 
@@ -30,11 +30,11 @@ allprojects {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     // Keep you existing dependencies here
-    implementation 'com.github.evgenyneu:js-evaluator-for-android:v5.0.0'
+    implementation 'com.github.sarbagyastha:js-evaluator-for-android:v6.0.0'
 }
 ```
 
-For less information, see Gradle/Maven [setup instructions](https://jitpack.io/#evgenyneu/js-evaluator-for-android/v5.0.0) on JsEvaluator jitpack.io page.
+For less information, see Gradle/Maven [setup instructions](https://jitpack.io/#sarbagyastha/js-evaluator-for-android/v6.0.0) on JsEvaluator jitpack.io page.
 
 ### 2. Setup from local .aar file
 
