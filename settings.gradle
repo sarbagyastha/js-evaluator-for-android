@@ -1,1 +1,1 @@
-include ':app', ':jsevaluator'
+include ':jsevaluator'
